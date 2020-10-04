@@ -41,7 +41,7 @@ ul {
 
 
 li a:hover {
-  background-color: rgb(236, 183, 34);
+  color: rgb(3, 163, 223);
 }
 
 .grid-item2 {
@@ -186,6 +186,10 @@ li a:hover {
 a.top{
   color: white;
   text-decoration:none;
+}
+
+a.top:hover{
+  background-color: rgb(236, 183, 34);
 }
 
 a.bottom{
